@@ -1,0 +1,1 @@
+don't forget to add 'self' in dynamic class methods
