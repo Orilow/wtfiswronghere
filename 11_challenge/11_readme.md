@@ -1,0 +1,1 @@
+firstly write complex cases in if and switch, than simple ones
